@@ -1,6 +1,6 @@
 # Aryan-Patil
 #  > About Me:
-i'm currently Working on Gen AI Projects <br>I'm looking to collaborate on Projects & Hackathons <br>I'm currently learning Machine Learning 
+I'm currently Working on ML Projects <br>I'm looking to collaborate on Projects & Hackathons <br>I'm currently learning Gen AI 
 
 
 ## > Socials:
